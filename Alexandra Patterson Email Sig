@@ -1,0 +1,64 @@
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?    family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  
+  <style>
+     @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+     body { font-family: "Jost", sans-serif;}
+    @media only screen and (max-width: 320px) {
+  b {
+    font-size: 9px;
+  }
+  </style>
+  
+</head>
+
+<body>
+<table style=
+   "border-left: 6px solid;
+    color: #112231;
+    width:450px;
+    background-color: #fffef0;
+    font-family: "Jost", sans-serif;
+    text-align: left;
+    color: #112231;
+    font-size: 14px;
+    padding: 10px 10px;
+    display: block;">
+ <tr>
+       <td rowspan="6" style="width:30%; padding-left: 10px; padding-right:15px;"> <a href="www.carlinosmarket.com">
+           <img src="https://drive.google.com/uc?export=view&id=1tKXljlhbd5JP8OokSlDPkeoKR4s5S2D6" width="150px"></a>
+       </td>
+   <div>
+       <td colspan="2" style="padding-top: 5px; font-size: 15px; font-family:Jost, sans-serif; font-weight: 600;"> Alexandra Patterson <span style= "font-weight:400; font-size:12px;"> </span>
+       </td>
+   </div>
+</tr>
+  <tr>
+    <td colspan="5" style="padding-bottom: 5px; font-family: Jost, sans-serif; font-style: italic; font-size: 13px; font-weight:600; line-height:3px;" >  Merchandiser
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" style= "font-weight:400; font-family: Jost, sans-serif; font-size: 12px;"> 
+      <a href="610-649-4046" style= "font-weight:500; font-size:11px; font-family: Jost, sans-serif; text-decoration:none; color:#112231;"> 610-649-4046
+      </a> 
+      <span style= "font-weight:400; font-size:11px; font-family: Jost, sans-serif;"> ext 224
+      </span> 
+      <br>
+      <a href="https://www.google.com/maps/place/2616+E+County+Line+Rd,+Ardmore,+PA+19003/data=!4m2!3m1!1s0x89c6c061c416da11:0xd40da3713210cf03?sa=X&ved=2ahUKEwj_rYr5rrWDAxXjMlkFHTprD40Q8gF6BAgTEAA" 
+style= "color: #112231; text-decoration:none; font-weight: 300; padding-right: 30px; font-size: 10px; font-family: Jost, sans-serif;">2616 E. County Line Rd. <span class="break-mobile"> Ardmore, PA. 19003 
+      </a>
+      <br> 
+       <a           href="https://www.google.com/maps/place/Carlino's+Market/@39.9585048,-75.6089859,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6f146566db1fb:0xd8ae7c0b6b2cca00!8m2!3d39.9585007!4d-75.606411!16s%2Fg%2F1vr3f3m3?entry=ttu" 
+         style= "color: #112231; text-decoration:none; padding-right: 30px; font-weight: 300; font-size: 10px; font-family: Jost, sans-serif;"> 128 W Market St. 
+         <span class="break-mobile"> West Chester, PA. 19832 
+      </a>
+     <br>
+         <a href="www.carlinosmarket.com" style="color: #D7272E; text-decoration:none; font-weight: 600; font-size: 12px; font-family: Jost, sans-serif;"> carlinosmarket.com
+         </a>
+    </td>
+  </tr>
+</table>
+</body>
